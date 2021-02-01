@@ -1,6 +1,6 @@
 package com.loit;
 
-public class Testnexus {
+public class Testnexuss {
 
 
 
